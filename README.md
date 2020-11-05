@@ -1,5 +1,5 @@
 # Reactlive-1 
-This my first work on React-- to built a UI using React.
+This is my first work on React-- to built a UI using React.
 
 Here is the link of the work ['Click Here'](https://youtu.be/IJO4PshXCSw)
 
